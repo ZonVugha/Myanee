@@ -107,6 +107,7 @@ public class MainActivity extends AppCompatActivity {
         imageView = (ImageView) findViewById(R.id.imageView);
         tvnumber = (TextView) findViewById(R.id.tvnumber);
     }
+    //Play sound
     private void Player(){
         Player00 =MediaPlayer.create(this,R.raw.lingling);
         Player98 =MediaPlayer.create(this,R.raw.jiuba);
