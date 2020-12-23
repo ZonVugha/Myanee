@@ -1,2 +1,2 @@
 # Myanee
-Click to have a Myakee
+Click to have a Myanee
